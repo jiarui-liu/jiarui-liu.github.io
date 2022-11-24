@@ -23,8 +23,8 @@ bio: My research interests include NLP for social good.
 # Interests to show in About widget
 interests:
   - NLP for Social Good
-  - Information Retrieval
-  - Data Mining
+  - Robust, trustworthy and fair NLP
+  - CausalNLP
 
 # Education to show in About widget
 education:
