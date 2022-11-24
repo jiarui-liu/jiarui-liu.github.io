@@ -28,11 +28,11 @@ name = "cyber_punk" # Based on https://www.nordtheme.com/
   link_hover = "#BBDEFB"
 
   # Menu
-  menu_primary = "#FFFFFF"
+  menu_primary = "#202020"
   menu_text = "#FFFFFF"
   menu_text_active = "#5F09B5"
   menu_title = "#FFFFFF"
 
   # Home sections
-  home_section_odd = "#FFFFFF"
-  home_section_even = "#FFFFFF"
+  home_section_odd = "#202020"
+  home_section_even = "#202020"
