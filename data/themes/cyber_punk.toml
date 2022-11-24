@@ -30,7 +30,7 @@ name = "cyber_punk" # Based on https://www.nordtheme.com/
   # Menu
   menu_primary = "#202020"
   menu_text = "#FFFFFF"
-  menu_text_active = "#5F09B5"
+  menu_text_active = "#BBDEFB"
   menu_title = "#FFFFFF"
 
   # Home sections
