@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiarui Liu
+title: Jiarui Liu (刘嘉睿)
 
 # Full name (for SEO)
 first_name: Jiarui
