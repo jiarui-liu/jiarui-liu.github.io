@@ -18,13 +18,13 @@ organizations:
     url: https://umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jiarui Liu.
+bio: My research interests include NLP for social good.
 
 # Interests to show in About widget
 interests:
   - NLP for Social Good
   - Robust, trustworthy and fair NLP
-  - Causal NLP
+  - CausalNLP
 
 # Education to show in About widget
 education:
@@ -63,9 +63,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: docs/Jiarui_Liu_resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -74,7 +74,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a senior student in Computer Science at the University of Michigan. My research interest is using NLP technologies to understand social problems and improve human well-being. I am fortunate to be a part of the [LIT group](https://lit.eecs.umich.edu/index.html), advised by Professor [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/). In addition, I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on group robustness and Professor [Ivo Dinov](http://www.socr.umich.edu/people/dinov/) on [SOCRAT](https://socr.umich.edu/HTML5/SOCRAT/) web application development.
+I am a senior student in CS at the University of Michigan, advised by Prof. Rada Mihalcea, Zhijing Jin, and Prof. Wei Hu.
+<!-- Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JiaruiLiu_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
