@@ -1,0 +1,38 @@
+# Theme metadata
+name = "pink" # Based on https://www.nordtheme.com/
+
+[light]
+  # Primary
+  primary = "#D08770"
+  background = "#ECEFF4"
+
+  link = "#D08770"
+  link_hover = "#88C0D0"
+
+  # Menu
+  menu_primary = "#BF696C"
+  menu_text = "#E5E9F0"
+  menu_text_active = "#EBCB8B"
+  menu_title = "#F7E7DE"
+
+  # Home sections
+  home_section_odd = "#ECE9F1"
+  home_section_even = "#F7E7DE"
+
+[dark]
+  # Primary
+  primary = "#3D3B3F"
+  background = "#3D3B3F"
+
+  link = "#B5828D"
+  link_hover = "#E5989B"
+
+  # Menu
+  menu_primary = "#4D4559"
+  menu_text = "#D8DEE9"
+  menu_text_active = "#E5989B"
+  menu_title = "#A295B7"
+
+  # Home sections
+  home_section_odd = "#3D3B3F"
+  home_section_even = "#4D4559"
