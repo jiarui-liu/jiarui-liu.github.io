@@ -1,0 +1,38 @@
+# Theme metadata
+name = "cyber_punk" # Based on https://www.nordtheme.com/
+
+[light]
+  # Primary
+  primary = "#D08770"
+  background = "#ECEFF4"
+
+  link = "#D08770"
+  link_hover = "#88C0D0"
+
+  # Menu
+  menu_primary = "#5E81AC"
+  menu_text = "#E5E9F0"
+  menu_text_active = "#EBCB8B"
+  menu_title = "#D08770"
+
+  # Home sections
+  home_section_odd = "#ECEFF4"
+  home_section_even = "#D8DEE9"
+
+[dark]
+  # Primary
+  primary = "#190033"
+  background = "#202020"
+
+  link = "#BBDEFB"
+  link_hover = "#BBDEFB"
+
+  # Menu
+  menu_primary = "#202020"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#BBDEFB"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#202020"
+  home_section_even = "#202020"
