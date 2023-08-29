@@ -4,8 +4,8 @@
 title: 'Bias Amplification Enhances Minority Group Performance'
 subtitle: ''
 summary: ''
-authors:
-- Currently Under Review at ICML 2023
+authors: ''
+# - Currently Under Review at ICML 2023
 
 pub: '*Submitted to ICML 2023.*'
 tags:

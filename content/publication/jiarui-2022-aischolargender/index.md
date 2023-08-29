@@ -4,8 +4,8 @@
 title: 'Voices of Her: Analyzing Gender Differences in the AI Publication World'
 subtitle: ''
 summary: ''
-authors:
-- Submitted to ACM FAccT 2023
+authors: ''
+# - Submitted to ACM FAccT 2023
 pub: '*Manuscript, 2022.*'
 tags:
 - NLP for Social Good
