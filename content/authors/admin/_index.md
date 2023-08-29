@@ -10,12 +10,12 @@ last_name: Liu
 superuser: true
 
 # Role/position/tagline
-role: Undergrad NLP Researcher
+# role: Undergrad NLP Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan, Ann Arbor
-    url: https://umich.edu/
+  - name: Carnegie Mellon University, Pittsburgh
+    url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -29,12 +29,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Master of Science in Intelligent Information Systems
+      institution: Carnegie Mellon University, Pittsburgh
+      year: Sept 2023 - Dec 2024 (Expected)
     - course: BSE in Computer Science
       institution: University of Michigan, Ann Arbor
-      year: 2021 - 2023
+      year: Sept 2021 - May 2023
     - course: BSE in Electrical and Computer Engineering
       institution: Shanghai Jiao Tong University
-      year: 2019 - 2023
+      year: Sept 2019 - Aug 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a senior student in Computer Science at the University of Michigan. My research interest is using NLP technologies to understand social problems and improve human well-being. I am fortunate to be a part of the [LIT group](https://lit.eecs.umich.edu/index.html), advised by Professor [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/). In addition, I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on group robustness and Professor [Ivo Dinov](http://www.socr.umich.edu/people/dinov/) on [SOCRAT](https://socr.umich.edu/HTML5/SOCRAT/) web application development.
+I am a first year MIIS (Master of Science in Intelligent Information Systems) student in the Language Technologies Institute at Carnegie Mellon University. My research interest is using NLP technologies to understand social problems and improve human well-being. Previously I worked in the [LIT group](https://lit.eecs.umich.edu/index.html) at the University of Michigan, advised by Professor [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/). In addition, I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on group robustness and Professor [Ivo Dinov](http://www.socr.umich.edu/people/dinov/) on [SOCRAT](https://socr.umich.edu/HTML5/SOCRAT/) web application development.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JiaruiLiu_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
