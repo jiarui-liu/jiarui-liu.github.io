@@ -22,9 +22,9 @@ bio: ''
 
 # Interests to show in About widget
 interests:
+  - Large Language Models
   - NLP for Social Good
   - Robust, trustworthy and fair NLP
-  - Causal NLP
 
 # Education to show in About widget
 education:
