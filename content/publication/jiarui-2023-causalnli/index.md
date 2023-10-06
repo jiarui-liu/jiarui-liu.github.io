@@ -1,20 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Bias Amplification Enhances Minority Group Performance'
+title: 'Can Large Language Models Infer Causation from Correlation?'
 subtitle: ''
 summary: ''
 authors: ''
-# - Currently Under Review at ICML 2023
-
-pub: '*Submitted to TMLR.*'
+# - Submitted to ACM FAccT 2023
+pub: '*Submitted to ICLR, 2024.*'
 tags:
-- Group Robustness
-- Spurious Correlation
+- Large Language Models
+- Causal Reasoning
 categories: []
-# date: '2023-01-26'
-lastmod: 2023-10-06T10:29:07+09:00
-featured: false
+# date: '2022-06-25'
+lastmod: 2023-10-08T10:29:07+09:00
+featured: true
 draft: false
 
 # Featured image

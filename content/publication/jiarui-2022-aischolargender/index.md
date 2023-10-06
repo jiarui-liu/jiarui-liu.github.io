@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors: ''
 # - Submitted to ACM FAccT 2023
-pub: '*Manuscript, 2022.*'
+pub: '*Submitted to ICWSM, 2024.*'
 tags:
 - NLP for Social Good
 categories: []
 # date: '2022-06-25'
-lastmod: 2023-01-30T10:29:07+09:00
+lastmod: 2023-09-30T10:29:07+09:00
 featured: true
 draft: false
 

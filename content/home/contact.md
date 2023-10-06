@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-#   email: ljrjerry@umich.edu
+  email: jiaruil5@andrew.cmu.edu
 #   phone: 9715069587
 #   address:
 #     street: 450 Serra Mall

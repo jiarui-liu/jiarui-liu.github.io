@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a first year MIIS (Master of Science in Intelligent Information Systems) student in the Language Technologies Institute at Carnegie Mellon University. My research interest is using NLP technologies to understand social problems and improve human well-being. Previously I worked in the [LIT group](https://lit.eecs.umich.edu/index.html) at the University of Michigan, advised by Professor [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/). In addition, I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on group robustness and Professor [Ivo Dinov](http://www.socr.umich.edu/people/dinov/) on [SOCRAT](https://socr.umich.edu/HTML5/SOCRAT/) web application development.
+I am a first year MIIS (Master of Science in Intelligent Information Systems) student in the Language Technologies Institute at Carnegie Mellon University. My research interest is using NLP technologies to understand social problems and improve human well-being. I am currently working with Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) on responsible AI at Carnegie Mellon University. Previously I worked in the [LIT group](https://lit.eecs.umich.edu/index.html) at the University of Michigan, advised by Professor [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/). In addition, I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on improving the worst-group robustness.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JiaruiLiu_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
