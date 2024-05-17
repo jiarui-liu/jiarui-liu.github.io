@@ -3,9 +3,7 @@
 
 title: 'Voices of Her: Analyzing Gender Differences in the AI Publication World'
 subtitle: ''
-summary: 'While several previous studies have analyzed gender bias in research, we are still missing a comprehensive analysis of gender differences in the AI community, covering diverse topics and different development trends. Using the AI Scholar dataset of 78K researchers in the field of AI, we identify several gender differences: (1) Although female researchers tend to have fewer overall citations than males, this citation difference does not hold for all academic-age groups; (2) There exist large gender homophily in co-authorship on AI papers; (3) Female first-authored papers show distinct linguistic styles, such as longer text, more positive emotion words, and more catchy titles than male first-authored papers. Our analysis provides a window into the current demographic trends in our AI community, and encourages more gender equality and diversity in the future. Our code and data are at [this https URL](https://github.com/causalNLP/ai-scholar-gender).
-
-Preprint 2023.'
+summary: 'While several previous studies have analyzed gender bias in research, we are still missing a comprehensive analysis of gender differences in the AI community, covering diverse topics and different development trends. Using the AI Scholar dataset of 78K researchers in the field of AI, we identify several gender differences: (1) Although female researchers tend to have fewer overall citations than males, this citation difference does not hold for all academic-age groups; (2) There exist large gender homophily in co-authorship on AI papers; (3) Female first-authored papers show distinct linguistic styles, such as longer text, more positive emotion words, and more catchy titles than male first-authored papers. Our analysis provides a window into the current demographic trends in our AI community, and encourages more gender equality and diversity in the future. Our code and data are at [this https URL](https://github.com/causalNLP/ai-scholar-gender).'
 authors:
 - Yiwen Ding
 - admin
@@ -48,7 +46,8 @@ image:
 projects: []
 # publishDate: '2022-08-17T12:48:03.028141Z'
 # publication_types: ["conference"]
-publication: ''
+publication: 'Preprint 2023'
+publication_short: 'Preprint 2023'
 
 links:
 - name: Arxiv

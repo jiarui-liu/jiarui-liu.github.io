@@ -11,7 +11,6 @@ authors:
 - Mona Diab
 # - Currently Under Review at ICML 2023
 
-pub: 'NAACL, 2024'
 tags:
 - Responsible AI
 categories: []
@@ -38,7 +37,7 @@ projects: []
 # publication_types:
 # - '1'
 publication: 'NAACL 2024'
-publication: 'NAACL 2024'
+publication_short: 'NAACL 2024'
 
 links:
 - name: Arxiv
