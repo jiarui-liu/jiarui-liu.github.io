@@ -48,7 +48,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 # publishDate: '2022-08-17T12:48:03.028141Z'
-publication_types:
-- '1'
+# publication_types:
+# - '1'
 publication: ''
+
+links:
+- name: Arxiv
+  url: https://arxiv.org/abs/2306.05836
+
 ---

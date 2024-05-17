@@ -17,7 +17,7 @@ tags:
 categories: []
 # date: '2023-01-26'
 lastmod: 2024-05-06T10:29:07+09:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -35,7 +35,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 # publishDate: '2022-08-17T12:48:03.028141Z'
-publication_types:
-- '1'
+# publication_types:
+# - '1'
 publication: 'NAACL, 2024'
+
+links:
+- name: Arxiv
+  url: https://arxiv.org/abs/2405.06258
+
 ---
