@@ -198,8 +198,9 @@ sections:
           - publication
         featured_only: true
     design:
+      # Choose a view for the listings:
+      view: citation
       columns: '2'
-      view: compact
   # - block: collection
   #   content:
   #     title: Recent Publications

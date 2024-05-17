@@ -45,7 +45,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 # publishDate: '2022-08-17T12:48:03.028141Z'
-# publication_types: ["conference"]
+publication_types: ["1"]
 publication: 'Preprint 2023'
 publication_short: 'Preprint 2023'
 
