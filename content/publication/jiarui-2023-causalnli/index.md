@@ -51,7 +51,7 @@ projects: []
 # publication_types:
 # - '1'
 publication: 'ICLR 2024'
-publication_short: 'ICLR 2024
+publication_short: 'ICLR 2024'
 
 links:
 - name: Arxiv
