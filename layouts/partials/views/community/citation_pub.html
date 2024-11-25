@@ -2,21 +2,24 @@
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  
 
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
-  <p style="font-style: italic;">"{{ $item.Title }}"</p>
+  <p style="font-style: italic; margin: 0;">"
+    <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+    {{ $item.Title }}"
+  </p>
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors_jiarui" $item }}
   </span>
   <br>
-  <p style="font-style: bold;">
+  <p style="font-style: bold; margin: 0;">
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}}.
+    {{- $item.Params.publication_short | markdownify -}}
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}}.
+    {{- $item.Params.publication | markdownify -}}
   {{ end }}
   </p>
 
