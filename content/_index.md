@@ -202,7 +202,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: citation_pub
+      view: community/citation_pub
   # - block: collection
   #   content:
   #     title: Recent Publications
