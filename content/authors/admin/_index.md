@@ -91,21 +91,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jiaruil5@andrew.cmu.edu'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jiarui-liu
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/jia-rui-liu/
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=mSIhZTAAAAAJ
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Jiarui_Liu_
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=mSIhZTAAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jia-rui-liu/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jiarui-liu
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -119,4 +119,6 @@ highlight_name: true
 ---
 
 I am a first-year Master of Language Technologies (MLT) student at Carnegie Mellon University's Language Technologies Institute. My research focuses on reasoning in large language models and responsible AI. I am currently collaborating with Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) on advancing responsible AI practices. Previously, I worked with Professors [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/) in the [LIT group](https://lit.eecs.umich.edu/index.html) at the University of Michigan on NLP for social good. I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on improving the worst-group robustness.
+
+I am actively looking for 25Fall PhD opportunities! My CV is [here](docs/JiaruiLiu_CV.pdf).
 {style="text-align: justify;"}
