@@ -15,15 +15,13 @@
     {{ partial "page_metadata_authors_jiarui" $item }}
   </span>
   <br>
+  <p style="font-weight: bold; margin: 0;">
   {{ if $item.Params.publication_short }}
-    <p style="font-style: bold; margin: 0;">
-      {{- $item.Params.publication_short | markdownify -}}
-    </p>
+    {{- $item.Params.publication_short | markdownify -}}
   {{ else if $item.Params.publication }}
-    <p style="font-style: bold; margin: 0;">
     {{- $item.Params.publication | markdownify -}}
-    </p>
   {{ end }}
+  </p>
 
   {{ if $has_attachments }}
   <div class="flex flex-wrap space-x-3">
