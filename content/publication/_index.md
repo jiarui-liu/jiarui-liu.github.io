@@ -13,4 +13,7 @@ view: 4
 banner:
   caption: ''
   image: ''
+
+archive:
+  enable: false
 ---
