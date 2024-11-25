@@ -7,21 +7,23 @@
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
-  <p style="font-style: italic; margin: 0;">"
+  <p style="font-style: italic; margin: 0;">
     <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-    {{ $item.Title }}"
+    "{{ $item.Title }}"
   </p>
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors_jiarui" $item }}
   </span>
   <br>
-  <p style="font-style: bold; margin: 0;">
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}}
+    <p style="font-style: bold; margin: 0;">
+      {{- $item.Params.publication_short | markdownify -}}
+    </p>
   {{ else if $item.Params.publication }}
+    <p style="font-style: bold; margin: 0;">
     {{- $item.Params.publication | markdownify -}}
+    </p>
   {{ end }}
-  </p>
 
   {{ if $has_attachments }}
   <div class="flex flex-wrap space-x-3">
