@@ -14,7 +14,7 @@ authors:
 - Mrinmaya Sachan
 
 categories: []
-lastmod: 2024-10-1T10:29:07+09:00
+lastmod: 2024-10-01T10:29:07+09:00
 featured: true
 draft: false
 
