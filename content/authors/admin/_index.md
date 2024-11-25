@@ -118,7 +118,7 @@ social:
 highlight_name: true
 ---
 
-I am a second-year Master of Language Technologies (MLT) student at Carnegie Mellon University's Language Technologies Institute. My research focuses on reasoning in large language models and responsible AI. I am currently collaborating with Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) on advancing responsible AI practices.
+I am a second-year Master of Language Technologies (MLT) student at Carnegie Mellon University's Language Technologies Institute. My research focuses on reasoning in large language models and responsible AI. I am currently working with Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) on advancing responsible AI practices.
 
 Previously, I worked with Professors [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/) in the [LIT group](https://lit.eecs.umich.edu/index.html) at the University of Michigan on NLP for social good. I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on improving the worst-group robustness.
 
