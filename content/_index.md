@@ -183,7 +183,7 @@ sections:
   #     flip_alt_rows: false
   - block: markdown
     content:
-      title: News
+      title: News📢
       subtitle: ''
       text: |-
         - [Sep. 2024] One paper to appear in EMNLP 2024, see you in Miami!  
@@ -202,7 +202,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: citation
+      view: citation_pub
   # - block: collection
   #   content:
   #     title: Recent Publications
