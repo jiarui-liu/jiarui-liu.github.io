@@ -181,14 +181,16 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: News
+      subtitle: ''
+      text: - [Sep. 2024] One paper to appear in EMNLP 2024, see you in Miami!
+        - [May. 2024] I started my applied scientist intern at Amazon AWS!
+        - [Mar. 2024] One paper to appear in NAACL 2024 as Oral Presentation!
+        - [Jan. 2024] One paper to appear in ICLR 2024, see you in Vienna!
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:
@@ -198,7 +200,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   # - block: collection
   #   content:
