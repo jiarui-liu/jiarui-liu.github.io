@@ -27,10 +27,12 @@
   {{/* MLA Style */}}
   {{ else }}
 
+  <p style="font-style: italic;">{{ $item.Title }}</p>
+  <br>
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors_jiarui" $item }}.
   </span>
-  {{ $item.Title }}.
+  <br>
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}},
   {{ else if $item.Params.publication }}
