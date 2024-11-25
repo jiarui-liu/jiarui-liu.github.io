@@ -186,12 +186,12 @@ sections:
       title: News
       subtitle: ''
       text: >
-        [Sep. 2024] One paper to appear in EMNLP 2024, see you in Miami!  
-        [May. 2024] I started my applied scientist intern at Amazon AWS!  
-        [Mar. 2024] One paper to appear in NAACL 2024 as Oral Presentation!  
-        [Jan. 2024] One paper to appear in ICLR 2024, see you in Vienna!
+        - [Sep. 2024] One paper to appear in EMNLP 2024, see you in Miami!  
+        - [May. 2024] I started my applied scientist intern at Amazon AWS!  
+        - [Mar. 2024] One paper to appear in NAACL 2024 as Oral Presentation!  
+        - [Jan. 2024] One paper to appear in ICLR 2024, see you in Vienna!
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: featured
     content:
