@@ -122,5 +122,5 @@ I am a second-year Master of Language Technologies (MLT) student at Carnegie Mel
 
 Previously, I worked with Professors [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Zhijing Jin](https://zhijing-jin.com/fantasy/) in the [LIT group](https://lit.eecs.umich.edu/index.html) at the University of Michigan on NLP for social good. I have also had a great time working with Professor [Wei Hu](https://weihu.me/) on improving the worst-group robustness.
 
-I am actively looking for 25Fall PhD opportunities! My CV is [here](docs/JiaruiLiu_CV.pdf).
+**I am actively looking for 25Fall PhD opportunities!** My CV is [here](docs/JiaruiLiu_CV.pdf).
 {style="text-align: justify;"}
