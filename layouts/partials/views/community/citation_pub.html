@@ -8,7 +8,7 @@
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}
+    {{ partial "page_metadata_authors_jiarui" $item }}
   </span>
   ({{- $item.Date.Format "2006" -}}).
   {{ $item.Title }}.
@@ -28,7 +28,7 @@
   {{ else }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}.
+    {{ partial "page_metadata_authors_jiarui" $item }}.
   </span>
   {{ $item.Title }}.
   {{ if $item.Params.publication_short }}
