@@ -7,14 +7,17 @@
     {{- $is_highlighted := or (eq .LinkTitle "Jiarui Liu") (eq .LinkTitle "Jiarui Liu*") -}}
 
     {{- if gt $index 0 }}, {{ end -}}
-    <span {{ if or $is_highlighted (.Page.Params.highlight_name | default false) }}class="font-bold"{{end}}>
-      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
-      {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
-      {{- else -}}
-        {{ .LinkTitle }}
-      {{- end -}}
-    </span>
+    {{ if $is_highlighted }}
+      <strong>
+    {{ end }}
+    {{ if .RelPermalink }}
+      <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+    {{ else }}
+      {{ .LinkTitle }}
+    {{ end }}
+    {{ if $is_highlighted }}
+      </strong>
+    {{ end }}
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
         <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
