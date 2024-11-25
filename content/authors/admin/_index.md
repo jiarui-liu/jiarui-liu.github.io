@@ -26,9 +26,7 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Responsible AI for social good
-  - LLM reasoning
-  - Multimodal machine learning
+  - Responsible AI for social good, LLM reasoning, Multimodal machine learning
 
 # Education to show in About widget
 education:
