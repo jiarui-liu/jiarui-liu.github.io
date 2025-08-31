@@ -26,8 +26,8 @@ bio: 'Jiarui is a PhD student at Carnegie Mellon University advised by Prof. Mon
 
 # Interests to show in About widget
 interests:
-  - Alignment: Responsible AI for social good
-  - Reasoning: Faithfulness
+  - Alignment, Responsible AI for social good
+  - Reasoning, Faithfulness
   - Multimodal machine learning
 
 # Education to show in About widget
