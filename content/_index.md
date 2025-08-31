@@ -186,6 +186,9 @@ sections:
       title: News📢
       subtitle: ''
       text: |-
+        - [Nov. 2025] Two papers to appear in EMNLP 2025, see you in Suzhou!
+        - [May. 2025] I started my applied scientist intern at Amazon Rufus in Seattle!
+        - [May. 2025] Four papers to appear in ACL 2025!
         - [Sep. 2024] One paper to appear in EMNLP 2024, see you in Miami!  
         - [May. 2024] I started my applied scientist intern at Amazon AWS!  
         - [Mar. 2024] One paper to appear in NAACL 2024 as Oral Presentation!  
