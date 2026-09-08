@@ -72,7 +72,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 2nd year PhD student at Carnegie Mellon University's Language Technologies Institute, advised by Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab). My research focuses on reasoning, continual learning, reinforcement learning, agents, and alignment for large language models. I work closely with Professor [Zhijing Jin](https://zhijing-jin.com/home/) at the University of Toronto.
+I am a 2nd year PhD student at Carnegie Mellon University's Language Technologies Institute, co-advised by Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) at CMU and Professor [Zhijing Jin](https://zhijing-jin.com/home/) at the University of Toronto. My research focuses on reasoning, continual learning, reinforcement learning, agents, and alignment for large language models.
 
 I am currently a research intern at Meta in Redmond, hosted by [Xin Luna Dong](https://lunadong.com/), Renjie Tao, and Tony Liao, working on accelerating ML research through harnesses and RL for research ideation. Previously, I interned at Amazon Rufus in Seattle in 2025, where I worked on honesty alignment for reasoning models; at Amazon AWS Bedrock in New York in 2024, where I studied multimodal hallucination; and at WarpEngine in Shanghai in 2023, where I built a personalized chatbot product.
 
