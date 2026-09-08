@@ -1,0 +1,13 @@
+# Navigation Links
+#   Each URL is a hash `#` followed by the `id` of a block in `content/_index.md`.
+
+main:
+  - name: Home
+    url: "#about"
+    weight: 10
+  - name: Publications
+    url: "#publications"
+    weight: 20
+  - name: CV
+    url: docs/JiaruiLiu_CV.pdf
+    weight: 30
