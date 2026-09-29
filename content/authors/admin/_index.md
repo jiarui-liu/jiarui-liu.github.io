@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Language Technologies
       institution: Carnegie Mellon University, Pittsburgh
-      year: Aug 2025 - May 2028 (Expected)
+      year: Aug 2025 - May 2027 (Expected)
     - course: Master of Language Technologies
       institution: Carnegie Mellon University, Pittsburgh
       year: Aug 2023 - May 2025
@@ -72,7 +72,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 2nd year PhD student at Carnegie Mellon University's Language Technologies Institute, co-advised by Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) at CMU and Professor [Zhijing Jin](https://zhijing-jin.com/home/) at the University of Toronto. My research focuses on reasoning, continual learning, reinforcement learning, agents, and alignment for large language models.
+I am a 2nd year PhD student at Carnegie Mellon University's Language Technologies Institute, co-advised by Professor [Mona Diab](https://lti.cs.cmu.edu/people/222228496/mona-diab) at CMU and Professor [Zhijing Jin](https://zhijing-jin.com/home/) at the University of Toronto.
+
+I aim to develop training methods that make language models and agents more reliable, adaptive, and useful to the people they serve. My research studies where current systems fall short in learning from ongoing experience, generating and refining research ideas, and communicating effectively, as well as how language models struggle with hallucination, honesty, and alignment. By understanding these limitations, I hope to design learning methods that help models and agents improve over time while remaining trustworthy and effective in real world use.
 
 I am currently a research intern at Meta in Redmond, hosted by [Xin Luna Dong](https://lunadong.com/), Renjie Tao, and Tony Liao, working on accelerating ML research through harnesses and RL for research ideation. Previously, I interned at Amazon Rufus in Seattle in 2025, where I worked on honesty alignment for reasoning models; at Amazon AWS Bedrock in New York in 2024, where I studied multimodal hallucination; and at WarpEngine in Shanghai in 2023, where I built a personalized chatbot product.
 
